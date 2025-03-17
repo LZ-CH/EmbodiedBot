@@ -1,0 +1,4 @@
+mmengine
+numpy
+opencv-python
+tqdm

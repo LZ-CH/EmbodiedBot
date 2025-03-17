@@ -1,0 +1,7 @@
+mmcv==2.2.0
+mmengine
+ninja
+transformers==4.49.0
+numba
+tqdm
+einops
